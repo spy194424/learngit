@@ -1,3 +1,5 @@
 git	commit test
 
 function2 complete
+
+function1.1 complete in the dev branch
